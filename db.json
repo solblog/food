@@ -24,6 +24,12 @@
     "price": 800,
     "description": ""
   }
+  {
+    "id": 5,
+    "name": "Pepote",
+    "price": 700,
+    "description": "Ole mk agre"
+  }
   ],
   "profile": {
     "name": "typicode"
